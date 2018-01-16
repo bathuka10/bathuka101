@@ -7,7 +7,7 @@
 	"pass" : "rpcpass",
 
 	"algo" : "scrypt",
-	"threads" : "4",
+	"threads" : "2",
 
 	"quiet" : true
 }
